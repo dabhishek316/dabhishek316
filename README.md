@@ -1,5 +1,5 @@
 ![logo](https://github.com/user-attachments/assets/9724cc85-7289-48e5-8f81-102574b09e2d)
-<h1 align="center">Abhishek Das - Azure Data Engineer</h1>
+<h1 align="center">Azure Data Engineer</h1>
 <h3 align="center">Developer - Data Engineer ❌ Solve Problems ✅</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dabhishek316&label=Profile%20views&color=0e75b6&style=flat" alt="dabhishek316" /> </p>
