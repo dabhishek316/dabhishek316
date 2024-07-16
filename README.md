@@ -23,6 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Data Analysis Project in Pyspark](https://medium.com/@abhishekdas69597/amazon-data-analysis-project-in-pyspark-6a3af19eaa05?source=rss-35d27701c9d9------2)
+- [Python requirements.txt : How to manage dependencies in Python Project](https://medium.com/@abhishekdas69597/python-requirements-txt-how-to-manage-dependencies-in-python-project-fccd9d6f4062?source=rss-35d27701c9d9------2)
+- [Bumpversion : Manage your Python Project version](https://medium.com/@abhishekdas69597/bumpversion-manage-your-python-project-version-cc9c14a68548?source=rss-35d27701c9d9------2)
+- [Data bricks : Organize user-defined header, Footer and attach to Data in a file using spark SQL](https://medium.com/@abhishekdas69597/data-bricks-organize-user-defined-header-footer-and-attach-to-data-in-a-file-using-spark-sql-905f5cb8c603?source=rss-35d27701c9d9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
