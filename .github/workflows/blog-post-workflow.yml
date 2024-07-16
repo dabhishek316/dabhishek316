@@ -16,4 +16,4 @@ jobs:
       - name: Pull in Medium posts
         uses: dabhishek316/.github/workflows/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/@abhishekdas69597/"
+          feed_list: "https://medium.com/@abhishekdas69597/amazon-data-analysis-project-in-pyspark-6a3af19eaa05"
