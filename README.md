@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Das</h1>
+<h1 align="center">Abhishek Das</h1>
 <h3 align="center">Developer - Data Engineer ❌ Solve Problems ✅</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dabhishek316&label=Profile%20views&color=0e75b6&style=flat" alt="dabhishek316" /> </p>
