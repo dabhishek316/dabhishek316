@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Big Data**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dabhishek316](https://github.com/dabhishek316)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/dabhishek316)
 
-- 📝 I regularly write articles on [Big Data and Python on Medium](Big Data and Python on Medium)
+- 📝 I regularly write articles on Big Data and Python on [Medium](https://medium.com/@abhishekdas69597)
 
 - 💬 Ask me about **Pyspark, Python, Spark SQL, Data Modelling, API, Databricks**
 
 - 📫 How to reach me **abhishekdas69597@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/dabhishek316/Abhishek-Das-Resume-using-Latex/blob/main/Abhishek_Das_Azure_Data_Engineer.pdf](https://github.com/dabhishek316/Abhishek-Das-Resume-using-Latex/blob/main/Abhishek_Das_Azure_Data_Engineer.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/dabhishek316/Abhishek-Das-Resume-using-Latex/blob/main/Abhishek_Das_Azure_Data_Engineer.pdf)
 
 - ⚡ Fun fact **Showing my prescence at work.**
 
