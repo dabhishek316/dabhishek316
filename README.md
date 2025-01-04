@@ -2,7 +2,11 @@
 <h1 align="center">Azure Data Engineer</h1>
 <h3 align="center">Developer - Data Engineer ❌ Solve Problems ✅</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dabhishek316&label=Profile%20views&color=0e75b6&style=flat" alt="dabhishek316" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dabhishek316&label=Profile%20views&color=0e75b6&style=flat" alt="dabhishek316" /> </p> 
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCV8e2g4IWQqK71bbzGDEI4Q?style=social)](https://www.youtube.com/@adasdataengineer)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/@abhishekdas69597)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/dabhishek316)
+[![Newsletter](https://img.shields.io/badge/Newsletter-3A8EED?style=for-the-badge&style=social&logoColor=white)](http://newsletter.dataprofessor.org/)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dabhishek316" alt="dabhishek316" /></a> </p>
 
