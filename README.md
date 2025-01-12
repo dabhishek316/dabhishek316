@@ -27,11 +27,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Reconciliation : Best Way To Find Differences Between Datasets in Python](https://medium.com/@abhishekdas69597/data-reconciliation-best-way-to-find-differences-between-datasets-in-python-0e2563e8b0aa?source=rss-35d27701c9d9------2)
 - [Spark Cluster Runtime Architecture Explained: Ace Spark Job Interviews](https://medium.com/@abhishekdas69597/spark-cluster-runtime-architecture-explained-ace-spark-job-interviews-961933c372dc?source=rss-35d27701c9d9------2)
 - [Understanding Data Integrity in Databases: A Comprehensive Guide](https://medium.com/@abhishekdas69597/understanding-data-integrity-in-databases-a-comprehensive-guide-128f451d16c2?source=rss-35d27701c9d9------2)
 - [Amazon Data Analysis Project in Pyspark](https://medium.com/@abhishekdas69597/amazon-data-analysis-project-in-pyspark-6a3af19eaa05?source=rss-35d27701c9d9------2)
 - [Python requirements.txt : How to manage dependencies in Python Project](https://medium.com/@abhishekdas69597/python-requirements-txt-how-to-manage-dependencies-in-python-project-fccd9d6f4062?source=rss-35d27701c9d9------2)
-- [Bumpversion : Manage your Python Project version](https://medium.com/@abhishekdas69597/bumpversion-manage-your-python-project-version-cc9c14a68548?source=rss-35d27701c9d9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
