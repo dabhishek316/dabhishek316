@@ -28,7 +28,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Python meets ydata-profiling: Instantly Generate Powerful Data Insights with One Line of Code](https://medium.com/@abhishekdas69597/python-meets-ydata-profiling-instantly-generate-powerful-data-insights-with-one-line-of-code-d3e6647b9d84?source=rss-35d27701c9d9------2)
-- [Python Meets SQLGlot: Seamlessly Parse and Convert SQL Queries](https://medium.com/@abhishekdas69597/python-meets-sqlglot-seamlessly-parse-and-convert-sql-queries-6b8e2f648fb0?source=rss-35d27701c9d9------2)
+- [Python Meets SQLGlot: Seamlessly Parse and Convert SQL Queries](https://medium.com/pythoneers/python-meets-sqlglot-seamlessly-parse-and-convert-sql-queries-6b8e2f648fb0?source=rss-35d27701c9d9------2)
 - [Python Tips for When Your Office Blocks ChatGPT Image  Uploads](https://medium.com/@abhishekdas69597/python-tips-for-when-your-office-blocks-chatgpt-image-uploads-2b372448b67a?source=rss-35d27701c9d9------2)
 - [Data Reconciliation : Best Way To Find Differences Between Datasets in Python](https://medium.com/@abhishekdas69597/data-reconciliation-best-way-to-find-differences-between-datasets-in-python-0e2563e8b0aa?source=rss-35d27701c9d9------2)
 - [Spark Cluster Runtime Architecture Explained: Ace Spark Job Interviews](https://medium.com/@abhishekdas69597/spark-cluster-runtime-architecture-explained-ace-spark-job-interviews-961933c372dc?source=rss-35d27701c9d9------2)
