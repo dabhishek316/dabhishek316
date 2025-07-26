@@ -27,11 +27,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Service-Based Companies Broke My Health and Stole My Sleep](https://medium.com/@abhishekdas69597/how-service-based-companies-broke-my-health-and-stole-my-sleep-471baa88dafa?source=rss-35d27701c9d9------2)
 - [LLM Calls vs Workflows vs Agents &lpar;Made Simple&rpar; — The AI Trinity Explained](https://medium.com/pythoneers/llm-calls-vs-workflows-vs-agents-made-simple-the-ai-trinity-explained-259b670484ae?source=rss-35d27701c9d9------2)
 - [Python meets ydata-profiling: Instantly Generate Powerful Data Insights with One Line of Code](https://medium.com/@abhishekdas69597/python-meets-ydata-profiling-instantly-generate-powerful-data-insights-with-one-line-of-code-d3e6647b9d84?source=rss-35d27701c9d9------2)
 - [Python Meets SQLGlot: Seamlessly Parse and Convert SQL Queries](https://medium.com/pythoneers/python-meets-sqlglot-seamlessly-parse-and-convert-sql-queries-6b8e2f648fb0?source=rss-35d27701c9d9------2)
 - [Python Tips for When Your Office Blocks ChatGPT Image  Uploads](https://medium.com/@abhishekdas69597/python-tips-for-when-your-office-blocks-chatgpt-image-uploads-2b372448b67a?source=rss-35d27701c9d9------2)
-- [Data Reconciliation : Best Way To Find Differences Between Datasets in Python](https://medium.com/@abhishekdas69597/data-reconciliation-best-way-to-find-differences-between-datasets-in-python-0e2563e8b0aa?source=rss-35d27701c9d9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
