@@ -27,11 +27,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [You Could Lose Your Job Tomorrow. Here’s Why That’s Not the End](https://medium.com/technical-excellence/you-could-lose-your-job-tomorrow-heres-why-that-s-not-the-end-29d0b167e529?source=rss-35d27701c9d9------2)
 - [Statistics : The True Legend behind DataScience](https://pythonmeetdev.com/statistics-the-true-legend-behind-datascience-a4366aba7db8?source=rss-35d27701c9d9------2)
 - [Streamlit meets Okta: Implementing Okta Using PKCE Flow &lpar;Simplifying OAuth&rpar;](https://medium.com/technology-hits/simplifying-oauth-implementing-okta-using-pkce-flow-in-streamlit-204a9e6dd7d5?source=rss-35d27701c9d9------2)
 - [How Service-Based Companies Broke My Health and Stole My Sleep](https://medium.com/illumination/how-service-based-companies-broke-my-health-and-stole-my-sleep-471baa88dafa?source=rss-35d27701c9d9------2)
 - [LLM Calls vs Workflows vs Agents &lpar;Made Simple&rpar; — The AI Trinity Explained](https://medium.com/pythoneers/llm-calls-vs-workflows-vs-agents-made-simple-the-ai-trinity-explained-259b670484ae?source=rss-35d27701c9d9------2)
-- [Python meets ydata-profiling: Instantly Generate Powerful Data Insights with One Line of Code](https://medium.com/technology-hits/python-meets-ydata-profiling-instantly-generate-powerful-data-insights-with-one-line-of-code-d3e6647b9d84?source=rss-35d27701c9d9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
