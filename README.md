@@ -27,7 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [You Could Lose Your Job Tomorrow. Here’s Why That’s Not the End](https://medium.com/@abhishekdas69597/you-could-lose-your-job-tomorrow-heres-why-that-s-not-the-end-29d0b167e529?source=rss-35d27701c9d9------2)
+- [You Could Lose Your Job Tomorrow. Here’s Why That’s Not the End](https://medium.com/readers-digests/you-could-lose-your-job-tomorrow-heres-why-that-s-not-the-end-29d0b167e529?source=rss-35d27701c9d9------2)
 - [Statistics : The True Legend behind DataScience](https://pythonmeetdev.com/statistics-the-true-legend-behind-datascience-a4366aba7db8?source=rss-35d27701c9d9------2)
 - [Streamlit meets Okta: Implementing Okta Using PKCE Flow &lpar;Simplifying OAuth&rpar;](https://medium.com/technology-hits/simplifying-oauth-implementing-okta-using-pkce-flow-in-streamlit-204a9e6dd7d5?source=rss-35d27701c9d9------2)
 - [How Service-Based Companies Broke My Health and Stole My Sleep](https://medium.com/illumination/how-service-based-companies-broke-my-health-and-stole-my-sleep-471baa88dafa?source=rss-35d27701c9d9------2)
